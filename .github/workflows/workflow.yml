@@ -24,4 +24,4 @@ jobs:
         GO_VERSION: 1.17
         TARGET_REPO: bfonta/bfonta.github.io
         TOKEN: ${{ secrets.PAGES_TOKEN }}
-        CNAME: www.brunoalves.com
+        CNAME: bfonta.github.io
