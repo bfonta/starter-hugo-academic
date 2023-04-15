@@ -99,7 +99,7 @@ sections:
       columns: '2'
       view: compact
   - block: markdown
-	content:
+    content:
       title: Gallery
       subtitle: ''
       text: |-
