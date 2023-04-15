@@ -1,25 +1,27 @@
 ---
 # Display name
-title: Alice Wu 吳恩達
+title: Bruno Alves
 
 # Full name (for SEO)
-first_name: Alice
-last_name: Wu
+first_name: Bruno
+last_name: Alves
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Particle Physics PhD Candidate
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: École Polytechnique (LLR)
+    url: https://www.polytechnique.edu/en
+  - name: CERN
+    url: https://home.cern/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
@@ -50,22 +52,16 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: '/#contact'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-    label: Follow me on Twitter
-    display:
-      header: true
+    link: mailto:bruno.alves@cern.ch
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://www.researchgate.net/profile/Bruno-Alves-45
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/bfonta
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/bruno-alves-/
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
@@ -80,5 +76,5 @@ email: ''
 highlight_name: true
 ---
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-{style="text-align: justify;"}
+I'm a Particle Physics PhD candidate looking for never-seen particles in extremely rare processes involving two Higgs bosons, using the CMS detector. This requires applying state of the art computing and statistical techniques to analyze terabytes of data produced at CERN. In parallel, I'm designing algorithms for a resource-constrained trigger system, including developping a reconstruction chain and visualization tool currently used by a small team. In the past I've developped software for deep learning and GPU applications in the fields of Astrophsics and Particle Physics. 
+I'm currently a Teacher Assistant at École Polytechnique and the Secretary of the CMS Young Scentists Committee.
