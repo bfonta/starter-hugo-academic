@@ -28,9 +28,9 @@ publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
 publication: 'EPJ Web of Conferences 251, 04017 (2021)'
-publication_short: ''
+publication_short: 
 
-abstract: We present the porting to heterogeneous architectures of the algorithm used for applying linear transformations of raw energy deposits in the CMS High Granularity Calorimeter (HGCAL). This is the first heterogeneous algorithm to be fully integrated with HGCAL’s reconstruction chain. After introducing the latter and giving a brief description of the structural components of HGCAL relevant for this work, the role of the linear transformations in the calibration is reviewed. The many ways in which parallelization is achieved are described, and the successful validation of the heterogeneous algorithm is covered. Detailed performance measurements are presented, including throughput and execution time for both CPU and GPU algorithms, therefore establishing the corresponding speedup. We finally discuss the interplay between this work and the porting of other algorithms in the existing reconstruction chain, as well as integrating algorithms previously ported but not yet integrated.
+abstract: 'We present the porting to heterogeneous architectures of the algorithm used for applying linear transformations of raw energy deposits in the CMS High Granularity Calorimeter (HGCAL). This is the first heterogeneous algorithm to be fully integrated with HGCAL’s reconstruction chain. After introducing the latter and giving a brief description of the structural components of HGCAL relevant for this work, the role of the linear transformations in the calibration is reviewed. The many ways in which parallelization is achieved are described, and the successful validation of the heterogeneous algorithm is covered. Detailed performance measurements are presented, including throughput and execution time for both CPU and GPU algorithms, therefore establishing the corresponding speedup. We finally discuss the interplay between this work and the porting of other algorithms in the existing reconstruction chain, as well as integrating algorithms previously ported but not yet integrated.'
 
 tags:
 - Source Themes
